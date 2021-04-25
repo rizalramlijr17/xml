@@ -1,0 +1,21 @@
+[
+    {
+    "id": 4,
+    "nama": "Acep Irham Gufroni",
+    "nip": "444444444",
+    "email": "acep@gmail.com"
+    },
+     {
+    "id": 5,
+    "nama": "Aldy Putra",
+    "nip": "555555555",
+    "email": "aldy@gmail.com"
+    },
+     {
+    "id": 6,
+    "nama": "Husni Mubarak",
+    "nip": "66666666",
+    "email": "husni@gmail.com"
+    }
+    
+]

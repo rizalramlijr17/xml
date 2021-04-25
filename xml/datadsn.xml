@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<xml>
+    <dosen>
+        <id>1</id>
+        <nama>Alam Rahmatulloh</nama>
+        <nip>111111111</nip>
+        <email>alamraya@gmail.com</email>
+    </dosen>
+    <dosen>
+        <id>2</id>
+        <nama>Aradea</nama>
+        <nip>222222222</nip>
+        <email>aradea@gmail.com</email>
+    </dosen>
+    <dosen>
+        <id>3</id>
+        <nama>Rahmi Nur Shofa</nama>
+        <nip>33333333</nip>
+        <email>rahmi@gmail.com</email>
+    </dosen>
+    
+</xml>
